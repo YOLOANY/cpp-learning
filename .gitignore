@@ -1,0 +1,19 @@
+# 密钥环境文件
+.env
+
+# VSCode本地配置，不要上传
+.vscode/
+
+# C++编译生成产物
+*.exe
+*.o
+*.obj
+*.out
+*.ilk
+*.pdb
+*.iobj
+*.ipdb
+
+# Windows系统垃圾
+Thumbs.db
+.DS_Store
