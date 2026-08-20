@@ -1,9 +1,11 @@
 ﻿#include <iostream>
+#include <string>
 using namespace std;
 
-int main()
-{
-    // TODO: 填写本节代码练习
-
+int main() {
+    string a;
+    while (cin >> a) {
+        cout << a + "写算法" << endl;
+    }
     return 0;
 }
